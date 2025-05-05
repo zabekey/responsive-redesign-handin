@@ -44,6 +44,12 @@ li{
     overflow: hidden;
 }
 
+#banner-name-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .top-banner-list-element {
     color: white;
     text-align: center;
